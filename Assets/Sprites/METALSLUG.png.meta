@@ -224,6 +224,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -233,8 +235,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -255,9 +257,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
@@ -1716,6 +1721,74 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      METALSLUG_6: 21300012
+      METALSLUG_3: 21300006
+      METALSLUG_2: 21300004
+      METALSLUG_20: 21300040
+      METALSLUG_15: 21300030
+      METALSLUG_46: 21300092
+      METALSLUG_34: 21300068
+      METALSLUG_7: 21300014
+      METALSLUG_65: 21300130
+      METALSLUG_1: 21300002
+      METALSLUG_28: 21300056
+      METALSLUG_0: 21300000
+      METALSLUG_17: 21300034
+      METALSLUG_38: 21300076
+      METALSLUG_30: 21300060
+      METALSLUG_27: 21300054
+      METALSLUG_61: 21300122
+      METALSLUG_24: 21300048
+      METALSLUG_18: 21300036
+      METALSLUG_36: 21300072
+      METALSLUG_4: 21300008
+      METALSLUG_16: 21300032
+      METALSLUG_9: 21300018
+      METALSLUG_19: 21300038
+      METALSLUG_25: 21300050
+      METALSLUG_23: 21300046
+      METALSLUG_29: 21300058
+      METALSLUG_32: 21300064
+      METALSLUG_45: 21300090
+      METALSLUG_48: 21300096
+      METALSLUG_52: 21300104
+      METALSLUG_63: 21300126
+      METALSLUG_54: 21300108
+      METALSLUG_37: 21300074
+      METALSLUG_56: 21300112
+      METALSLUG_57: 21300114
+      METALSLUG_64: 21300128
+      METALSLUG_13: 21300026
+      METALSLUG_33: 21300066
+      METALSLUG_21: 21300042
+      METALSLUG_42: 21300084
+      METALSLUG_10: 21300020
+      METALSLUG_5: 21300010
+      METALSLUG_14: 21300028
+      METALSLUG_47: 21300094
+      METALSLUG_11: 21300022
+      METALSLUG_51: 21300102
+      METALSLUG_49: 21300098
+      METALSLUG_50: 21300100
+      METALSLUG_22: 21300044
+      METALSLUG_39: 21300078
+      METALSLUG_26: 21300052
+      METALSLUG_43: 21300086
+      METALSLUG_8: 21300016
+      METALSLUG_12: 21300024
+      METALSLUG_59: 21300118
+      METALSLUG_60: 21300120
+      METALSLUG_58: 21300116
+      METALSLUG_53: 21300106
+      METALSLUG_62: 21300124
+      METALSLUG_31: 21300062
+      METALSLUG_44: 21300088
+      METALSLUG_35: 21300070
+      METALSLUG_40: 21300080
+      METALSLUG_55: 21300110
+      METALSLUG_66: 21300132
+      METALSLUG_41: 21300082
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
