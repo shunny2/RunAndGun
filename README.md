@@ -12,7 +12,9 @@
 
 ## About Run and Gun
 Clone of the Metal Slug game developed at unity.\
-Currently, the game has 2 stages.
+Currently, the game has 1 stage.
+
+Game link available at: https://shunny2.github.io/run-and-gun/
 
 ## Technologies
 
