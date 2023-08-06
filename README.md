@@ -1,14 +1,20 @@
 <p align="center">
-<a href="#about-run-and-gun">About Run and Gun</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#technologies">Technologies</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#project-status">Project Status</a>
+  <a href="#about-run-and-gun">About Run and Gun</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project-status">Project Status</a>
 </p>
 
 </br>
 
 ![run-and-gun-gif](https://user-images.githubusercontent.com/72872854/192825193-bfd7a800-c7c7-4253-8ccf-38c0aceeb5f2.gif)
+
+<p align="center">
+  <a href="https://img.shields.io/github/stars/shunny2/run-and-gun"><img src="https://img.shields.io/github/stars/shunny2/run-and-gun" alt="Stars"></a>
+  <a href="https://img.shields.io/github/forks/shunny2/run-and-gun"><img src="https://img.shields.io/github/forks/shunny2/run-and-gun" alt="Forks"></a>
+  <a href="https://img.shields.io/github/license/shunny2/run-and-gun"><img src="https://img.shields.io/github/license/shunny2/run-and-gun" alt="License"></a>
+</p>
 
 ## About Run and Gun
 Clone of the Metal Slug game developed at unity.\
