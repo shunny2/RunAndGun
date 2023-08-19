@@ -24,7 +24,15 @@ The link to access the game can be found at https://shunny2.github.io/run-and-gu
 
 ## Technologies
 
-- [Unity](https://unity.com/)
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <td>
+      <a href="https://unity.com/" title="Unity3D"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity logo image." /></a>
+    </td>
+  </tbody>
+</table>
 
 ## Project Status
 
